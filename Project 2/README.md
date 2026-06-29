@@ -39,7 +39,7 @@ Boxplots were used to detect potential ouliers within numerical variables. Ident
 ### Time Series Analysis
 Quarterly trends in Total Order Value, Average Order Value and product performance were analysed from 2023 to Q2 2025 to identify changes in revenue patterns and product behaviour over time.
 
-## Key Findings and Visual Evidence
+## Key Findings
 
 ### Customer Purchasing Behaviour
 Descriptive statistics and distribution analysis were used to understand customer purchasing patterns, typical order values, and the spread of  transactions across the dataset.
